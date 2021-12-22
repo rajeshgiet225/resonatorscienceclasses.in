@@ -1,0 +1,242 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="resonator.com" resolutions="1x" timestamp="1640150166570">
+  <folder name="css">
+    <file name="site_global.css" crc="4163052277"/>
+    <file name="master_a-master.css" crc="4035261773" ref="contact:gallery:our-vision:curriculum:our-mission:247-support:hostel:facilities:library:low-fee-structure:quality-coaching:index"/>
+    <file name="contact.css" crc="4155327586" ref="contact"/>
+    <file name="gallery.css" crc="273630052" ref="gallery"/>
+    <file name="our-vision.css" crc="4159539201" ref="our-vision"/>
+    <file name="curriculum.css" crc="301565760" ref="curriculum"/>
+    <file name="our-mission.css" crc="4203201373" ref="our-mission"/>
+    <file name="247-support.css" crc="4045091225" ref="247-support"/>
+    <file name="hostel.css" crc="3860760566" ref="hostel"/>
+    <file name="facilities.css" crc="301565760" ref="facilities"/>
+    <file name="library.css" crc="398174148" ref="library"/>
+    <file name="low-fee-structure.css" crc="4045487536" ref="low-fee-structure"/>
+    <file name="quality-coaching.css" crc="299983109" ref="quality-coaching"/>
+    <file name="index.css" crc="4041910182" ref="index"/>
+    <file name="iefonts_index.css" crc="320618364" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="chse-science-revised-syllabus-20-21.pdf" crc="310375928" seo="true" mt="1617367982000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:curriculum:facilities:gallery:contact:library:hostel:our-mission:our-vision:247-support:quality-coaching:low-fee-structure"/>
+    <file name="museutils.js" crc="3939489907" ref="index:curriculum:facilities:gallery:contact:library:hostel:our-mission:our-vision:247-support:quality-coaching:low-fee-structure"/>
+    <file name="whatinput.js" crc="86476730" ref="index:curriculum:facilities:gallery:contact:library:hostel:our-mission:our-vision:247-support:quality-coaching:low-fee-structure"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:curriculum:facilities:gallery:contact:library:hostel:our-mission:our-vision:247-support:quality-coaching:low-fee-structure"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:curriculum:facilities:gallery:contact:library:hostel:our-mission:our-vision:247-support:quality-coaching:low-fee-structure"/>
+    <file name="webpro.js" crc="3856315280" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:gallery:contact:library:hostel:our-mission:our-vision:247-support:quality-coaching:low-fee-structure"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:curriculum:facilities:gallery:contact:library:hostel:our-mission:our-vision:247-support:quality-coaching:low-fee-structure"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u3820.php" crc="329077577" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:curriculum:facilities:gallery:contact:library:hostel:our-mission:our-vision:247-support:quality-coaching:low-fee-structure"/>
+    <file name="require.js" crc="4177726516" ref="index:curriculum:facilities:gallery:contact:library:hostel:our-mission:our-vision:247-support:quality-coaching:low-fee-structure"/>
+    <file name="form-u24152.php" crc="82030379" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="wallpaperbettercom_1366x768(1).jpg" crc="279799801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="wallpaperbettercom_1366x768.jpg" crc="35877254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wallpaperbetter.jpg" crc="20808911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="8eba31e0.jpg" crc="4274804093" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14.jpg" crc="3975111838" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3706-4.png" crc="4211669296" ref="index"/>
+    <file name="8.jpg" crc="514271449" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u23766-4.png" crc="227261203" ref="index"/>
+    <file name="4.jpg" crc="4260973311" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u23769-4.png" crc="4128541415" ref="index"/>
+    <file name="17.jpg" crc="38923872" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u23772-4.png" crc="3801084590" ref="index"/>
+    <file name="u3698_states.png" crc="9064192" ref="index"/>
+    <file name="u3698_states-r.png" crc="3977774833" ref="index"/>
+    <file name="pngegg(4).png" crc="212809589" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u23776_states.png" crc="9064192" ref="index"/>
+    <file name="u23776_states-r.png" crc="3977774833" ref="index"/>
+    <file name="u23779_states.png" crc="9064192" ref="index"/>
+    <file name="u23779_states-r.png" crc="3977774833" ref="index"/>
+    <file name="u23782_states.png" crc="9064192" ref="index"/>
+    <file name="u23782_states-r.png" crc="3977774833" ref="index"/>
+    <file name="u22934-4.png" crc="3853629786" ref="index:curriculum:facilities:gallery:contact:library:hostel:our-mission:our-vision:247-support:quality-coaching:low-fee-structure"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonials.png" crc="4083760234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7.jpg" crc="4230474419" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p8.jpg" crc="435617401" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p9.jpg" crc="300861052" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1.jpg" crc="439940231" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2.jpg" crc="262429777" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3.jpg" crc="3864086125" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p4.jpg" crc="336770731" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5.jpg" crc="4129631760" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p6.jpg" crc="60468847" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1232.jpg" crc="347182978" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rplexpng.png" crc="3904316786" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="76462720.jpg" crc="142300268" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3911092941" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="2.jpg" crc="3894230799" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="7.jpg" crc="314765111" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="5.jpg" crc="493213675" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_6360.jpg" crc="343252657" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3768952829" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="9.jpg" crc="4092629575" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="10.jpg" crc="4036605211" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="11.jpg" crc="3989079174" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="13.jpg" crc="4108463214" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="12-u24252-fr.jpg" crc="4050520385" ref="gallery"/>
+    <file name="img-20181223-wa0004.jpg" crc="69780801" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img-20181224-wa0000.jpg" crc="4191256030" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img-20181224-wa0050.jpg" crc="258406488" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img-20181223-wa0005.jpg" crc="23962885" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img-20181224-wa0001.jpg" crc="4110981547" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img-20181224-wa0069.jpg" crc="185368252" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img-20181223-wa0006.jpg" crc="230336484" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="15.jpg" crc="3888120130" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img-20181224-wa0077.jpg" crc="417756280" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="favpng_call-centre-customer-service-armenia-call-center-telephone-call-u24170-fr.png" crc="117717276" ref="contact"/>
+    <file name="lib-2-u24677-fr.jpg" crc="4020484947" ref="library"/>
+    <file name="dsff.jpg" crc="275384678" ref="hostel">
+      <caption webpage="hostel" alt=""/>
+    </file>
+    <file name="img_20210411_191656.jpg" crc="170873507" ref="hostel">
+      <caption webpage="hostel" alt=""/>
+    </file>
+    <file name="1232fg.jpg" crc="518842782" ref="our-mission:our-vision">
+      <caption webpage="our-vision" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4134839317" ref="247-support">
+      <caption webpage="247-support" alt=""/>
+    </file>
+    <file name="texture.jpg" crc="397322237" ref="quality-coaching">
+      <caption webpage="quality-coaching" alt=""/>
+    </file>
+    <file name="medical.jpg" crc="4027569617" ref="quality-coaching">
+      <caption webpage="quality-coaching" alt=""/>
+    </file>
+    <file name="iit.jpg" crc="9847560" ref="quality-coaching">
+      <caption webpage="quality-coaching" alt=""/>
+    </file>
+    <file name="physics-open-book-doodles-lettering-physics-open-book-doodles-lettering-education-vector-illustration-135558394-u24934-fr.jpg" crc="318469976" ref="quality-coaching"/>
+    <file name="ddse.jpg" crc="4293695006" ref="low-fee-structure">
+      <caption webpage="low-fee-structure" alt=""/>
+    </file>
+    <file name="materials.jpg" crc="361384575" ref="low-fee-structure">
+      <caption webpage="low-fee-structure" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3794403370" seo="true" mt="1640149667623" redirect="true"/>
+  <file name="curriculum.html" crc="3866112360" seo="true" mt="1640149667623" redirect="true"/>
+  <file name="facilities.html" crc="3795821282" seo="true" mt="1640149667623" redirect="true"/>
+  <file name="gallery.html" crc="76934298" seo="true" mt="1640149667623" redirect="true"/>
+  <file name="contact.html" crc="154003770" seo="true" mt="1640149667623" redirect="true"/>
+  <file name="library.html" crc="3990907904" seo="true" mt="1640149667623" redirect="true"/>
+  <file name="hostel.html" crc="3788262700" seo="true" mt="1640149667623" redirect="true"/>
+  <file name="our-mission.html" crc="4101197202" seo="true" mt="1640149667623" redirect="true"/>
+  <file name="our-vision.html" crc="3890327384" seo="true" mt="1640149667623" redirect="true"/>
+  <file name="247-support.html" crc="278830981" seo="true" mt="1640149667623" redirect="true"/>
+  <file name="quality-coaching.html" crc="3799134339" seo="true" mt="1640149667623" redirect="true"/>
+  <file name="low-fee-structure.html" crc="3850937722" seo="true" mt="1640149667623" redirect="true"/>
+</manifest>
